@@ -1,1 +1,1 @@
-# Earthquake-analysis
+# Earthquake analysis
